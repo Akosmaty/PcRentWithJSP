@@ -1,0 +1,16 @@
+Twoj nowy PC sklada sie z :
+Procesor (nazwa, taktowanie, generacja, cena):
+i7
+3,5Ghz
+10090
+1500
+Obudowa (nazwa, rozmiar, cena):
+X1 pro case
+50x60x70
+500
+Karta graficzna (nazwa, taktowanie, pamiec, cena):
+RTX3090
+15Ghz
+24GB
+9000
+Cena za calosc jest rowna:11000
